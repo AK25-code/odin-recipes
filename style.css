@@ -1,0 +1,40 @@
+*
+{
+    background-color: rgb(224, 217, 186);
+    text-align: center;
+}
+.note
+{
+    margin:5px 0 10px 30px;
+    color:rgb(62, 70, 114, 0.8);
+    font-size: 18px;
+}
+
+h1{
+    font-size:-50px;
+    font-family:'Courier New', Courier, monospace, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    color: rgb(56, 57, 107);
+}
+.images{
+    text-align: center;
+    width:200px;
+    height:200px;
+     border:2px solid rgb(62, 70, 114);
+     margin:10px 30px 5px 30px;
+}
+.recipe .images{
+  display: block;
+}
+.recipe  {
+  display: inline-block; /* puts them side by side */
+  margin: 10px;
+}
+.recipe p {
+  margin-top: 5px;
+  text-align: center;
+  font-size: 25px;
+  font-family:"Brush Script MT", Georgia, 'Times New Roman', Times, serif;
+}
+

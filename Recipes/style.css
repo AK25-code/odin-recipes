@@ -1,0 +1,25 @@
+*{
+   background-color: rgb(224, 217, 186);
+}
+    h1{
+    font-size:-50px;
+    font-family:'Courier New', Courier, monospace, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    color: rgb(56, 57, 107);
+}
+.images{
+    width:200px;
+    height:200px;
+     border:2px solid rgb(62, 70, 114);
+     margin:10px 30px 5px 30px;
+}
+.content{
+    color:rgb(54, 64, 119);
+}
+h2{
+    font-size: 35px;
+    font-family:"Brush Script MT", Georgia, 'Times New Roman', Times, serif;
+    color:rgb(19, 19, 66);
+    margin:5px 0 5px 5px;
+}
